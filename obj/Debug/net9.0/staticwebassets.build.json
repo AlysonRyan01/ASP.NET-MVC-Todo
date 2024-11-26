@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2SP9z1loDjSflVQ7g7SlRzDUAdYyJSlZkDc7qVaI9gk=",
+  "Source": "ASP.NET-MVC-Todo",
+  "BasePath": "_content/ASP.NET-MVC-Todo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
